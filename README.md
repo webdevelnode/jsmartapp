@@ -1,0 +1,2 @@
+# jsmartapp
+commandline project test
